@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Streaming Data for Predictive Maintenance (Linear Regression Alerts)
 
 ## Project Summary
@@ -65,3 +66,7 @@ T (window = 3 samples): Numerous single spikes were found in time series plots. 
 
 ## Live streaming chart that displays alerts and errors in real time and records them
 The live dashboard displays Alert and Erorrs per axis(axis1). Using the above thresholds, we were able to notice two alert and 1 error, meaning that there were two cases in which we were able to notice that the current had spiked and exceeded the 95th percentile for more than 3 consecutive times. There was 1 case in which we got an error, as the current had exceeded the 99th percentile.
+=======
+# LinearRegressionArchitecture_Workshop
+Modeling our Assignment1-lab into a Structured and scalable model
+>>>>>>> fcdec22441458e75e4eb86e302f94bd7816e23af
